@@ -12,10 +12,14 @@ For example if you use Pycharm, this will be the window to select the virtual en
 
 ![image](https://github.com/user-attachments/assets/9b97c31c-8b11-4d6b-892b-f5908a0396ee)
 
-After configuring this virtual environment, you will open a local terminal and the terminal should be on the root of the project using the virtual environment.
+After configuring this virtual environment, you will open two local terminal and on both terminal you should be on the root of the project using the virtual environment.
 
-Go on the directory "src" by using (cd src) and launch those commands: 
+Go on the directory "src" by using (cd src) and launch those commands:
+
+On one terminal you launch:
 - python manage.py tailwind start
+
+On another terminal you launch:
 - python manage.py runserver
 
 ![image](https://github.com/user-attachments/assets/7dc008ef-956a-42a1-b899-2aa392211563)
